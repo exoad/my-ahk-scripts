@@ -3,4 +3,10 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-:*:psvm::public static void main(String[] args) {{ }}
+:*:psvm::
+Send, 
+(
+  public static void main(String[] args) {
+
+  }
+)
