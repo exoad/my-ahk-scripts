@@ -1,4 +1,5 @@
 # Auto Hot Key Scripts
+![](https://img.shields.io/github/languages/code-size/meng-jack/ahk-scripts?style=plastic)
 
 These are some of the scripts I have written and mostly running on my window's laptop
 
